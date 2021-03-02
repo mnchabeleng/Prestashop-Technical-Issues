@@ -5,5 +5,5 @@
 Solution(MySQL query):
 
 ```
-UPDATE ps_configuration SET value = 0 WHERE name='PS_COOKIE_CHECKIP';
+$ UPDATE ps_configuration SET value = 0 WHERE name='PS_COOKIE_CHECKIP';
 ```
