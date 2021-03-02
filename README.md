@@ -1,6 +1,6 @@
 # Some Prstashop technical issues I came across
 
-## 1. Prestashop logs me out immediatly after logging in
+#### 1. Prestashop logs me out immediatly after logging in
 
 Solution(MySQL query):
 
